@@ -1,0 +1,54 @@
+## npm
+node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+## quick.db
+*.sqlite
+
+# yarn
+yarn-debug.log
+yarn-error.log
+
+# dotenv
+.env
+
+# next.js
+.next
+
+# production
+out
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
