@@ -52,7 +52,6 @@ This is a bot that allows you to create reaction roles. You can add as many role
 2. Save the file
 3. Restart the bot
 
-## ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Terms of Use
 By using this bot, you agree to the following terms of use:
@@ -66,7 +65,6 @@ By using this bot, you agree to the following terms of use:
 ```
 
 
-## ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### More Information
 
