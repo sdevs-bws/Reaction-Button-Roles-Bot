@@ -6,8 +6,8 @@ const config = require("./config.js");
 const db = new QuickDB();
 
 const embed = new MessageEmbed()
-    .setTitle("Pings")
-    .setDescription("React to this message to get pinged for the respective color!")
+    .setTitle("Reactions")
+    .setDescription("React to this messages Reactions to gain cool roles!")
     .setColor("GREEN")
     .setFooter({ text: "Made with ❤️ by JanjyTapYT#0001 & Stoneclane Development | Open Source: https://github.com/Stoneclane-Development/Reaction-Roles-Bot", iconURL: "https://cdn.discordapp.com/avatars/881000000000000000/00000000000000000000000000000000.png?size=1024" });
 
