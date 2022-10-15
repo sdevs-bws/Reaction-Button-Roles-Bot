@@ -22,7 +22,18 @@ client.on("ready", () => {
             msg.react(role.emoji);
         });
     });
-    db.set("send", true);
+  ///////////////////////////////////////////////////////////
+  // Dont remove this otherwise you will break everything! //
+                   db.set("send", true);                   //
+  ///////////////////////////////////////////////////////////
+    } else {
+        const channel_config = client.channels.cache.get(config.env.channel);
+        channel_config.messages.fetch(config.env.message).then((msg) => {
+            msg.edit({ embeds: [embed] });
+            config.roles.forEach((role) => {
+                msg.react(role.emoji);
+            });
+        });
     }
 });
 

@@ -27,6 +27,9 @@ This is a bot that allows you to create reaction roles. You can add as many role
 5. Create the new roles and copy paste the role id in the "role id" fields in the config.js file
 6. Copy paste the emojis in the "emoji" fields in the config.js file
 7. Run the bot with `node index.js` or `npm run start` or in development mode with `npm run dev`
+8. Copy the message id and paste it in the "message" field in the config.js file
+9. Restart the bot
+10. Enjoy!
 
 ## How to add a new reaction role
 1. Copy paste the following code in the config.js file
