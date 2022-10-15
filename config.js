@@ -16,5 +16,6 @@ module.exports = {
             id: "", //id of the role
             emoji: "", // emoji for the role example: ⚫
         },
+        
     ],
 }
