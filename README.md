@@ -24,29 +24,32 @@ This is a bot that allows you to create reaction roles. You can add as many role
 2. Create a new bot and copy paste the token in the "token" field in the config.js file
 3. Invite the bot to your server
 4. Create a new channel and copy paste the channel id in the "channel" field in the config.js file
-5. Create the new roles and copy paste the role id in the "role id" fields in the config.js file
+5. Create a new button and copy paste the button id in the "button" field in the config.js file
 6. Copy paste the emojis in the "emoji" fields in the config.js file
 7. Run the bot with `node index.js` or `npm run start` or in development mode with `npm run dev`
 8. Copy the message id and paste it in the "message" field in the config.js file
 9. Restart the bot
 10. Enjoy!
 
-## How to add a new reaction role
-1. Copy paste the following code in the config.js file
+## How to add a new reaction button
+1. Copy paste the following code in the buttons field in the config.js file
 ```js
-{
-    role: "Role ID",
-    emoji: "Emoji"
-}
+button = {
+            emoji: "", // the emoji of the button (you can use custom emojis too) example: "👍"
+            label: "", // the label of the button
+            id: "", // the id of the button (you can use numbers or letters)
+            role: "", // the id of the role which should get added to the user by clicking the button
+            style: "", // the style of the button (PRIMARY, SECONDARY, SUCCESS, DANGER, LINK)
+        },
 ```
-2. Replace the "Role ID" with the role id and the "Emoji" with the emoji
-3. Add a comma at the end of the previous reaction role
+2. Place into the "id"  field the role id and place into the "emoji" field the id of the emoji or an emoji
+3. Add a comma at the end of the previous reaction button
 4. Save the file
 5. Restart the bot
 
-## How to remove a reaction role
-1. Remove the reaction role code in the config.js file
-2. Remove the comma at the end of the previous reaction role
+## How to remove a reaction button
+1. Remove the reaction button code in the config.js file
+2. Remove the comma at the end of the previous reaction button
 3. Save the file
 4. Restart the bot
 
