@@ -82,4 +82,4 @@ If you want to contribute to this project, you can create a pull request or join
 - [SDEVS](https://github.com/sdevs-bws) - Development Team by BinaryBlazer
 
 ## License
-This bot is licensed under the [MIT License](https://github.com/sdevs-bws/Reaction-Roles-Bot/blob/main/LICENSE)
+This bot is licensed under the [MIT License](https://github.com/sdevs-bws/Reaction-Roles-Bot/blob/reactions/LICENSE)
