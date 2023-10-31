@@ -5,15 +5,15 @@ This is a bot that allows you to create reaction roles. You can add as many role
 ## Developers
 <table>
    <tr>
-      <td align="center"><a href="https://github.com/JanjyTapYT">
-        <img src="https://github.com/JanjyTapYT.png?size=100" width="100px;" alt=""/>
+      <td align="center"><a href="https://github.com/binary-blazer">
+        <img src="https://github.com/binary-blazer.png?size=100" width="100px;" alt=""/>
         <br />
-        <sub><b>JanjyTapYT</b></sub></a><br />
+        <sub><b>BinaryBlazer</b></sub></a><br />
      </td>
-      <td align="center"><a href="https://github.com/Stoneclane-Development">
-        <img src="https://github.com/Stoneclane-Development.png?size=100" width="100px;" alt=""/>
+      <td align="center"><a href="https://github.com/sdevs-bws">
+        <img src="https://github.com/sdevs-bws.png?size=100" width="100px;" alt=""/>
         <br />
-        <sub><b>Stoneclane Development</b></sub></a><br />
+        <sub><b>SDEVS</b></sub></a><br />
      </td>
    </tr>
 </table>
@@ -81,8 +81,8 @@ If you need help, you can join our [Discord Server](https://discord.gg/M7kaJDZty
 If you want to contribute to this project, you can create a pull request or join our [Discord Server](https://discord.gg/M7kaJDZtyY)
 
 ## Credits
-- [JanjyTapYT](https://github.com/JanjyTapYT) - Developer
-- [Stoneclane Development](https://github.com/Stoneclane-Development) - Development Team by JanjyTapYT
+- [BinaryBlazer](https://github.com/binary-blazer) - Developer
+- [SDEVS](https://github.com/sdevs-bws) - Development Team by BinaryBlazer
 
 ## License
-This bot is licensed under the [MIT License](https://github.com/Stoneclane-Development/Reaction-Roles-Bot/blob/main/LICENSE)
+This bot is licensed under the [MIT License](https://github.com/sdevs-bws/Reaction-Roles-Bot/blob/buttons/LICENSE)
